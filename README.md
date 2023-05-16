@@ -5,12 +5,12 @@
  ####  :wave: Welcome my github profile!
  
  <div align="center"><h2>🧑 Career</h2>
-  🏫 Dankook Univ. Software Engineering '19 ( 2019.03 ~ ing ) <br/><br/>
+	 
+  🏫 Dankook Univ. Software Engineering '19 ( 2019.03 ~ ing ) 
 
-  💻 DKU Council 홈페이지 프로젝트 백엔드 개발 참여 ( 2023.03 ~ 2023.05 ) <br/><br/>
+  💻 DKU Council 홈페이지 프로젝트 백엔드 개발 참여 ( 2023.03 ~ 2023.05 )
   
-  👨🏻‍🎓 소프트웨어학과 멘토멘티 프로그램 운영 사이트 백엔드 개발 ( 2023.04 ~ ing ) <br/><br/>
- 
+  👨🏻‍🎓 소프트웨어학과 멘토멘티 프로그램 운영 사이트 백엔드 개발 ( 2023.04 ~ ing ) 
  </div>
  
 <div align=center>
