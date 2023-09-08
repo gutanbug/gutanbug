@@ -2,7 +2,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=gutanbug&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35)
  
- ####  :wave: Welcome my <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> profile!
+ ####  :wave: Welcome my <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> profile!
  
  <div align="center"><h2>🧑 Career</h2>
 	 
