@@ -42,6 +42,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutanbug&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=gutanbug&show_icons=true"><br><br>
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@gutanbug)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gutanbug&color=dark)](https://velog.io/@gutanbug)
 
 
