@@ -10,12 +10,12 @@
   🏫 Dankook Univ. Software Engineering '19 ( 2019.03 ~ ing ) 
 
   💻 DKU Council 홈페이지 프로젝트 백엔드 개발 참여 ( 2023.03 ~ 2023.05 )
-  
-  👨🏻‍🎓 소프트웨어학과 멘토멘티 프로그램 운영 사이트 백엔드 개발 ( 2023.04 ~ 2023.06 ) 
+
+  👨🏻‍🎓 소프트웨어학과 멘토멘티 프로그램 운영 사이트 백엔드 개발 ( 2023.04 ~ 2023.06 )
 
   🥽 DKU Next 리뉴얼 홈페이지 인프라 관리 및 백엔드 개발 참여 ( 2023.09 ~ )
  </div>
- 
+
 <div align=center>
 	<h2>📚 Tech Stack 📚</h2>
 	<p>✨ Platforms & Languages ✨</p>
@@ -38,9 +38,43 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
+<div>
+<h2>🪧 Career Ex 🪧</h2>
+	<div align=left>
+		💻 DKU Council 홈페이지 프로젝트 백엔드 개발 참여 ( 2023.03 ~ 2023.05 )<br><br>
+		총학생회 사이트 백앤드 개발<br><br>
+		<li>백엔드 개발 : Spring Boot</li>
+		<li>데이터베이스 : MySql</li>
+		<li>클라우드 : NHNCloud</li>
+		<li>기타 : Redis, Pinpoint, Grafana, Nginx</li><br>
+		<li><a href=https://github.com/gutanbug/student-council-homepage-backend>총학생회 백엔드 레포지토리</li><br>
+		<li>운영서버 : <a href=https://dkustu.com>dkustu.com</li>
+		<li>축제 티켓팅 서버 : <a href=https://danfesta.dkustu.com>danfesta.dkustu.com</li><br><br><br>
+	</div>
+ 	<div align=left>
+		👨🏻‍🎓 소프트웨어학과 멘토멘티 프로그램 운영 사이트 백엔드 개발 ( 2023.04 ~ 2023.06 ) <br><br>
+		소프트웨어 융합대학 전체 멘토멘티 관리 사이트 백앤드 개발<br><br>
+		<li>백앤드 개발 : Spring Boot</li>
+		<li>데이터베이스 : Mysql</li>
+		<li>클라우드 : Amazon EC2</li><br>
+		<li><a href=https://github.com/gutanbug/mentoring-private>멘토멘티 백엔드 레포지토리</li><br>
+		<li>운영서버 : <a href=http://sw-mentoring.site/>sw-mentoring.site</li><br><br><br>
+	</div>
+ 	<div align=left>
+  		🥽 DKU Next 리뉴얼 홈페이지 인프라 관리 및 백엔드 개발 참여 ( 2023.09 ~ )<br><br>
+		기존 총학생회 홈페이지를 리뉴얼하는 Next 프로젝트에 백앤드 개발 및 인프라 관리<br><br>
+		<li>백앤드 개발 : Spring Boot</li>
+		<li>데이터베이스 : MySql</li>
+		<li>클라우드 : NHNCloud</li>
+		<li>기타 : Redis, Pinpoint, Nginx</li><br>
+		<li><a href=https://github.com/gutanbug/next-student-council-backend>Next 총학생회 백앤드 레포지토리</li><br><br>
+	</div>
+
+ 	
+</div>
  
 <br/><br/>
- 
+ <p></p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutanbug&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=gutanbug&show_icons=true"><br><br>
  
