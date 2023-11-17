@@ -14,6 +14,9 @@
   👨🏻‍🎓 소프트웨어학과 멘토멘티 프로그램 운영 사이트 백엔드 개발 ( 2023.04 ~ 2023.06 )
 
   🥽 DKU Next 리뉴얼 홈페이지 인프라 관리 및 백엔드 개발 참여 ( 2023.09 ~ )
+
+  🎈 TABA 4기 이미지 AI 분석 프로젝트 백엔드 개발 및 인프라 관리 ( 2023.11 ~ )
+  
  </div>
 
 <div align=center>
@@ -69,6 +72,16 @@
 		<li>기타 : Redis, Pinpoint, Nginx</li><br>
 		<li><a href=https://github.com/gutanbug/next-student-council-backend>Next 총학생회 백앤드 레포지토리</li><br><br>
 	</div>
+ 	<div align=left>
+  		🎈 TABA 4기 이미지 AI 분석 프로젝트 백엔드 개발 및 인프라 관리 ( 2023.11 ~ )<br><br>
+		TABA 4기에 참여하여 AI를 사용한 이미지 분석 프로젝트에서 백엔드 개발 및 인프라 관리 담당<br><br>
+		<li>백앤드 개발 : Spring Boot</li>
+		<li>데이터베이스 : MySql, Tibero/li>
+		<li>클라우드 : AWS</li>
+		<li>기타 : Redis, AWS S3, Nginx, </li><br>
+		<li><a href=https://github.com/SixPieceGarlicBread/byulha-backend-dev>TABA 4기 백엔드 개발 레포지토리</li><br><br>
+	</div>
+ 
 
  	
 </div>
