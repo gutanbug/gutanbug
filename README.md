@@ -77,7 +77,7 @@
 		TABA 4기에 참여하여 AI를 사용한 이미지 분석 프로젝트에서 백엔드 개발 및 인프라 관리 담당<br><br>
 		<li>백앤드 개발 : Spring Boot</li>
 		<li>데이터베이스 : MySql, Tibero/li>
-		<li>클라우드 : AWS</li>
+		<li>클라우드 : AWS Lightsail</li>
 		<li>기타 : Redis, AWS S3, Nginx, </li><br>
 		<li><a href=https://github.com/SixPieceGarlicBread/byulha-backend-dev>TABA 4기 백엔드 개발 레포지토리</li><br><br>
 	</div>
