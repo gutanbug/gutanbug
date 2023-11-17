@@ -94,6 +94,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutanbug&layout=compact&theme=onedark">
 </p>
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gutanbug&color=dark)](https://velog.io/@gutanbug)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gutanbug)](https://github.com/gutanbug/velog-readme-stats)
+
 
 
