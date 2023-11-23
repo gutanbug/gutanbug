@@ -89,10 +89,6 @@
 <br/><br/>
  <p></p>
 
-<p align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gutanbug&show_icons=true&theme=onedark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutanbug&layout=compact&theme=onedark">
-</p>
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gutanbug)](https://github.com/gutanbug/velog-readme-stats)
 
