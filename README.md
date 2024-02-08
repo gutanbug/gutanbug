@@ -81,6 +81,16 @@
 		<li>기타 : Redis, AWS S3, Nginx, </li><br>
 		<li><a href=https://github.com/SixPieceGarlicBread/byulha-backend-dev>TABA 4기 백엔드 개발 레포지토리</li><br><br>
 	</div>
+
+ 	<div align=left>
+  		🎈 2024 리뉴얼 멘토멘티 사이트 백엔드 개발 및 인프라 관리 ( 2023.11 ~ )<br><br>
+		2024 단국대학교 소프트웨어학과 리뉴얼 멘토멘티 사이트 개발 담당<br><br>
+		<li>백앤드 개발 : Spring Boot</li>
+		<li>데이터베이스 : MySql/li>
+		<li>클라우드 : AWS Lightsail</li>
+		<li>기타 : Redis, AWS S3, Nginx </li><br>
+		<li><a href=https://github.com/gutanbug/renew-sw-mentoring>2024 리뉴얼 멘토멘티 백엔드 개발 레포지토리</li><br><br>
+	</div>
  
 
  	
