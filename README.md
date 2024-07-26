@@ -18,6 +18,8 @@
   🎈 TABA 4기 이미지 AI 분석 프로젝트 백엔드 개발 및 인프라 관리 및 수료 ( 2023.11 ~ 2023.12 )
 
   👫 2024 리뉴얼 멘토멘티 사이트 백엔드 개발 및 인프라 관리 ( 2024.02 ~ )
+
+  💎 Swifty, 통합 대학교 축제 관리 플랫폼 백엔드 개발 및 인프라 관리 ( 2024.03 ~ )
   
  </div>
 
@@ -53,8 +55,8 @@
 		<li>클라우드 : NHNCloud</li>
 		<li>기타 : Redis, Pinpoint, Grafana, Nginx</li><br>
 		<li><a href=https://github.com/gutanbug/student-council-homepage-backend>총학생회 백엔드 레포지토리</li><br>
-		<li>운영서버 : <a href=https://dkustu.com>dkustu.com</li>
-		<li>축제 티켓팅 서버 : <a href=https://danfesta.dkustu.com>danfesta.dkustu.com</li><br><br><br>
+		<li>운영서버 : <a href=https://dkustu.com>dkustu.com (종료)</li>
+		<li>축제 티켓팅 서버 : <a href=https://danfesta.dkustu.com>danfesta.dkustu.com (종료)</li><br><br><br>
 	</div>
  	<div align=left>
 		👨🏻‍🎓 소프트웨어학과 멘토멘티 프로그램 운영 사이트 백엔드 개발 ( 2023.04 ~ 2023.06 ) <br><br>
@@ -63,7 +65,7 @@
 		<li>데이터베이스 : Mysql</li>
 		<li>클라우드 : Amazon EC2</li><br>
 		<li><a href=https://github.com/gutanbug/mentoring-private>멘토멘티 백엔드 레포지토리</li><br>
-		<li>운영서버 : <a href=http://sw-mentoring.site/>sw-mentoring.site</li><br><br><br>
+		<li>운영서버 : <a href=http://sw-mentoring.site/>sw-mentoring.site (종료)</li><br><br><br>
 	</div>
  	<div align=left>
   		🥽 DKU Next 리뉴얼 홈페이지 인프라 관리 및 백엔드 개발 참여 ( 2023.09 ~ )<br><br>
@@ -91,8 +93,11 @@
 		<li>클라우드 : AWS Lightsail</li>
 		<li>기타 : Redis, AWS S3, Nginx </li><br>
 		<li><a href=https://github.com/gutanbug/renew-sw-mentoring>2024 리뉴얼 멘토멘티 백엔드 개발 레포지토리</li><br>
-		<li>운영서버(예정) : <a href=https://dkusw-mentoring.site>dkusw-mentoring.site</li>
-		<li>개발서버(예정) : <a href=https://dev.dkusw-mentoring.site>dev.dkusw-mentoring.site</li><br><br><br>
+		<li>운영서버 : <a href=https://dku-sw-mentoring.site>https://dku-sw-mentoring.site</li>
+	</div>
+ 	<div align=left>
+		💎 Swifty, 대학교 축제 통합 관리 플랫폼 백엔드 개발 및 인프라 관리 ( 2024.03 ~ )<br><br>
+		운영서버 : 공개 미정
 	</div>
  
 
