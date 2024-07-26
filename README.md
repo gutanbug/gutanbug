@@ -93,7 +93,7 @@
 		<li>클라우드 : AWS Lightsail</li>
 		<li>기타 : Redis, AWS S3, Nginx </li><br>
 		<li><a href=https://github.com/gutanbug/renew-sw-mentoring>2024 리뉴얼 멘토멘티 백엔드 개발 레포지토리</li><br>
-		<li>운영서버 : <a href=https://dku-sw-mentoring.site>https://dku-sw-mentoring.site</li>
+		<li>운영서버 : <a href=https://dku-sw-mentoring.site>https://dku-sw-mentoring.site</li><br><br>
 	</div>
  	<div align=left>
 		💎 Swifty, 대학교 축제 통합 관리 플랫폼 백엔드 개발 및 인프라 관리 ( 2024.03 ~ )<br><br>
