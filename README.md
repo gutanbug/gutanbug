@@ -3,7 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=gutanbug&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35)
  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>
  
- ####  :wave: Welcome my <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> profile!
+ ####  :wave: Welcome my <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> profile!<br>
+
+ <div>
+	 이노그리드, 하이브리드 클라우드 플랫폼팀 전임연구원 ( 2025.01 ~ ing )
+ </div>
  
  <div align="center"><h2>🧑 Career</h2>
 	 
